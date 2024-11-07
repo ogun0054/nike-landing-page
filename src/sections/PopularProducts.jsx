@@ -1,7 +1,7 @@
 import React from "react";
 
-function PopularProduct() {
-  return <div></div>;
+function PopularProducts() {
+  return <div>PopularProducts</div>;
 }
 
-export default PopularProduct;
+export default PopularProducts;
